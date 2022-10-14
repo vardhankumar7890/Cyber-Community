@@ -1,5 +1,4 @@
-﻿// CMake Logger.cpp : Defines the entry point for the application.
-//
+﻿// HarshitJoshi9152 (https://github.com/HarshitJoshi9152/)
 
 #include "CppKeyLogger.h"
 #include <Windows.h>
