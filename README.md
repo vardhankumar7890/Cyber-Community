@@ -1,1 +1,1 @@
-# GNA Cyber-Community
+# Cyber-Community
